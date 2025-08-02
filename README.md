@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/wiemeboukhari/wiemeboukhari/main/assets/banner.png" width="80%" alt="Banner"/>
   
   <h1>Welcome to my GitHub! 👩‍💻 أهلاً بكم في حسابي</h1>
-  <p><strong>Wieme Boukhari</strong> | Student at <em>ENSA - Algeria</em></p>
-  <p>🎓 مهندسة روبوتيك في التكوين و مطورة شغوفة بـ C++, C, و Python</p>
+  <p><strong>Wieme Boukhari</strong> | Student at <em>NHAST - Algeria</em></p>
+  <p>🎓 future engineer 
   <p>🚀 I’m passionate about embedded systems, automation, and creative coding.</p>
 
 </div>
